@@ -1,9 +1,7 @@
 "use client";
 import {
-  ChevronDownIcon,
   PencilIcon,
   PlusIcon,
-  UserCircleIcon,
 } from "@heroicons/react/24/outline";
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
