@@ -4,7 +4,7 @@ import { useSearchParams } from "next/navigation";
 
 import Link from "next/link";
 
-const page = () => {
+const HomePage = () => {
   // console.log(gender);
 
   return (
@@ -33,4 +33,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default HomePage;
